@@ -1,0 +1,3 @@
+import "@testing-library/jest-dom/vitest";
+
+window.__APP_CONFIG__ = { API_URL: "http://localhost:8000" };
